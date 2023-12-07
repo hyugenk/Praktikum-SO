@@ -17,3 +17,7 @@
 2. `gcc -o copy copy.c`
 3. `./copy test.txt testcopy.txt` -> text.txt = nama file yang akan dicopy, testcopy.txt = namafile dari file yang dicopy
 
+### Del
+1. `nano del.c`
+2. `gcc -o del del.c`
+3. `./del test.txt` 
