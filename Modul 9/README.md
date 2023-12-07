@@ -1,4 +1,4 @@
-# Praktikum SO Modul 9
+# Praktikum Sistem Operasi Modul 9
 
 ## Instruksi :
 
