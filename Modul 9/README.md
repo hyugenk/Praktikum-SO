@@ -11,8 +11,14 @@
 ### Read
 1. `nano fread.c`
 2. `gcc -o fread fread.c`
-3. `./fcreate test.txt` -> Menampilkan isi dari file
+3. `./fread test.txt` -> Menampilkan isi dari file
 4. `Enter`
+
+### Append
+1. `nano fappend.c`
+2. `gcc -o fappend fappend.c`
+3. `./fappend test.txt` -> Masukkan isi file untuk menambahkan ke dalam file
+4. `Enter / Ctrl+C`
 
 
 
