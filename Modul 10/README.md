@@ -4,7 +4,7 @@
 
 #### List
 1. `nano list.c`
-2. `gcc -o list list.c`
+2. `gcc list.c -o list `
 3. `./list` 
 
 #### Mygrep
