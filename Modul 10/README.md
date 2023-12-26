@@ -20,4 +20,4 @@
 #### Del
 1. `nano del.c`
 2. `gcc -o del del.c`
-3. `./del test.txt` 
+3. `./del test.txt`  -> menghapus file test.txt
