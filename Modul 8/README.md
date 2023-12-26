@@ -11,7 +11,7 @@
 4. `./a.out stat.c`
 5. `./a.out /`
 
-## Keterangan 
+### Keterangan 
 
 `nano fork.c`: Membuka teks editor "nano" untuk membuat atau mengedit file dengan nama "fork.c". "nano" adalah editor teks sederhana yang berjalan di terminal.
 
