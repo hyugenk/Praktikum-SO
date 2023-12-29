@@ -20,6 +20,6 @@
 `./a.out`: Setelah proses kompilasi selesai, perintah ini digunakan untuk menjalankan file biner yang dihasilkan ("a.out"). Ini akan melaksanakan program yang telah dikompilasi dari kode dalam file "fork.c".
 
 ### Catatan
-sebelum compile pake gcc, kalo nanti ada error stdio.h : No Such File or Directory bisa update & install libc6-dev yaa, pake perintah ini:
+Sebelum compile pake gcc, kalo nanti ada error stdio.h : No Such File or Directory bisa update & install libc6-dev yaa, pake perintah ini:
 
 `sudo apt update && sudo apt install libc6-dev -y`
